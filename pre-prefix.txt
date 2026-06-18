@@ -299,6 +299,7 @@ pre-eliminate
 pre-embarrass
 pre-embody
 pre-employ
+pre-empt
 pre-enable
 pre-enact
 pre-enclose
